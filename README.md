@@ -11,7 +11,7 @@ https://tinyurl.com/coinpool-workshop
 Open the HTML file using your favorite browser, then check the developer console to see some magic.
 
 Live demo available here:  
-https://supertestnet.github.io/coinpool-workshop
+https://supertestnet.github.io/coinpool_workshop
 
 # Resources
 **Payment pools**  
