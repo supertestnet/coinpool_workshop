@@ -14,11 +14,11 @@ Live demo available here:
 https://supertestnet.github.io/coinpool-workshop
 
 # Resources
-**Payment pools**
+**Payment pools**  
 https://rubin.io/bitcoin/2021/12/10/advent-13/
 
-**Joinpools**
+**Joinpools**  
 https://bitcoinops.org/en/topics/joinpools/
 
-**Channel factories**
+**Channel factories**  
 https://bitcoinops.org/en/topics/channel-factories/
