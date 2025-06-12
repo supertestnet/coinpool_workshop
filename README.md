@@ -6,6 +6,9 @@ Special thanks to [stutxo](https://github.com/stutxo/) for inspiring me to make 
 # Slideshow
 https://tinyurl.com/coinpool-workshop
 
+# Video explainer and demo
+https://www.youtube.com/watch?v=o-e9IrDrvuo
+
 # How to use
 
 Open the HTML file using your favorite browser, then check the developer console to see some magic.
