@@ -1,6 +1,8 @@
 # Coinpool workshop
 A workshop on how to make your own coinpool
 
+If you like this project, you may also be interested in [hedgehog factory](https://github.com/supertestnet/hedgehog_factory)
+
 Special thanks to [stutxo](https://github.com/stutxo/) for inspiring me to make this with his excellent [grugpool](https://github.com/stutxo/op_ctv_payment_pool), and for the two geniuses Jeremy Rubin and Gregory Maxwell for coming up with the idea of coinpools
 
 # Slideshow
